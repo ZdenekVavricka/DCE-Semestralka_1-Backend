@@ -8,7 +8,7 @@ This web server returns a web page containing the server's IP address.
 ## Usage
 The backend can be used as a package published on Github Container 
 
-Registry available at: `ghcr.io/jiristilip/dce-simplest-backend:latest`
+Registry available at: `ghcr.io/zdenekvavricka/dce-semestralka_1-backend:latest`
 
 ### Running the backend locally
 It is also possible to run the backend locally using Docker by running the following commands in the project root directory:
