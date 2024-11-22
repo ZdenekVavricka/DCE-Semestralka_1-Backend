@@ -3,7 +3,7 @@ Simple Python Web Server
 It was created for the purposes of the KIV/DCE course at the University of West Bohemia. 
 
 ## Function
-This web server returns a web page containing the server's IP address.
+This web server returns a web page containing the server's Hostname.
 
 ## Usage
 The backend can be used as a package published on Github Container 
