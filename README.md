@@ -1,6 +1,7 @@
 # DCE-Semestralka_1-Backend
 Simple Python Web Server
-It was created for the purposes of the KIV/DCE course at the University of West Bohemia. 
+
+It is a part of bigger semester work: [dce-semestralka_1](https://github.com/ZdenekVavricka/dce-semestralka_1.git)
 
 ## Function
 This web server returns a web page containing the server's Hostname.
@@ -16,3 +17,7 @@ It is also possible to run the backend locally using Docker by running the follo
 Build the image: `docker build -t dce-simplest-backend .`
 
 Run the container: `docker run -d -p 5000:5000 dce-simplest-backend`
+
+---
+
+It was created for the purposes of the KIV/DCE course at the University of West Bohemia. 
